@@ -11,17 +11,19 @@ I studied mathematics as a post-grad and working with a startup to develop analy
 
 ### Libraries I use
 ![langs](https://img.shields.io/badge/scikit-learn-98f041?style=plastic&logo=appveyor&logo=sklearn&logoColor=orange)
-![langs](https://img.shields.io/badge/pytorch-98f041?style=plastic&logo=pytorch&logoColor=orange)
-![langs](https://img.shields.io/badge/numpy-98f041?style=plastic&logo=numpy&logoColor=orange)
-![langs](https://img.shields.io/badge/pandas-98f041?style=plastic&logo=pandas&logoColor=orange)
-![langs](https://img.shields.io/badge/Seaborn-98f041?style=plastic&logo=seaborn&logoColor=orange)
+![langs](https://img.shields.io/badge/pytorch-white?style=plastic&logo=pytorch&logoColor=orange)
+![langs](https://img.shields.io/badge/numpy-white?style=plastic&logo=numpy&logoColor=blue)
+![langs](https://img.shields.io/badge/pandas-white?style=plastic&logo=pandas&logoColor=black)
+![langs](https://img.shields.io/badge/seaborn-white?style=plastic&log=seaborn&logoColor=white)
 ![langs](https://img.shields.io/badge/GAP-98f041?style=plastic&logo=gap&logoColor=orange)
+![langs](https://img.shields.io/badge/streamlit-white?style=plastic&logo=streamlit&logoColor=orange)
+![langs](https://img.shields.io/badge/matplotlib-white?style=plastic&logo=matplotlib&logoColor=orange)
 
 
 ### Frontend Tech I learned
 ![langs](https://img.shields.io/badge/HTML-62eeea?style=flat&logo=html&logoColor=green)
-![langs](https://img.shields.io/badge/CSS-62eeea?style=flat&logo=css&logoColor=green)
-![langs](https://img.shields.io/badge/CSS-62eeea?style=flat&logo=javscript&logoColor=yellow)
+![langs](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=green)
+![langs](https://img.shields.io/badge/Javscript-yellow?style=flat&logo=javscript&logoColor=yellow)
 
 Currently I'm trying to understand algorithmic techniques in group theory and some deep neural networks.
 
