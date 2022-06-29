@@ -2,7 +2,7 @@
 
 
 I'm Sham,
-I studied mathematics as a post-grad and now exploring computational/ML methods to solve mathematical problems.
+I studied mathematics as a post-grad and working with a startup to develop analytics intellegince and further exploring computational/ML methods to solve mathematical problems.
 
 ### Languages I know
 
@@ -21,6 +21,7 @@ I studied mathematics as a post-grad and now exploring computational/ML methods 
 ### Frontend Tech I learned
 ![langs](https://img.shields.io/badge/HTML-62eeea?style=flat&logo=html&logoColor=green)
 ![langs](https://img.shields.io/badge/CSS-62eeea?style=flat&logo=css&logoColor=green)
+![langs](https://img.shields.io/badge/CSS-62eeea?style=flat&logo=javscript&logoColor=yellow)
 
 Currently I'm trying to understand algorithmic techniques in group theory and some deep neural networks.
 
