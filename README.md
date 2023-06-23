@@ -2,7 +2,7 @@
 
 
 I'm Sham,
-I studied mathematics as a post-grad and working with a startup to develop analytics intellegince and further exploring computational/ML methods to solve mathematical problems.
+I studied mathematics as a post-grad and working with a startup to develop analytics intellegince and further computational/ML methods to solve mathematical problems, games, and different domains.
 
 ### Languages I know
 
