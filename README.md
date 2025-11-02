@@ -1,30 +1,80 @@
-### Hi there 👋
+# 🎲 Sham | Mathematics/Machine Learning/Symbolic AI
 
+> *"Where pure mathematics meets computational reality"*
 
-I'm Sham,
-I studied mathematics as a post-grad and working with a startup to develop analytics intellegince and further computational/ML methods to solve mathematical problems, games, and different domains.
+## 👋 Welcome
 
-### Languages I know
+Hey there! I'm **Sham**, an autodidact with some formal training in mathematics.
+---
 
-![langs](https://img.shields.io/badge/Python-1784d4?style=flat&logo=python&logoColor=orange)
-![langs](https://img.shields.io/badge/SQL-1784d4?style=flat&logo=sql&logoColor=orange)
+## 🧮 The Mathematical Journey
 
-### Libraries I use
-![langs](https://img.shields.io/badge/scikit-learn-98f041?style=plastic&logo=appveyor&logo=sklearn&logoColor=orange)
-![langs](https://img.shields.io/badge/pytorch-white?style=plastic&logo=pytorch&logoColor=orange)
-![langs](https://img.shields.io/badge/numpy-white?style=plastic&logo=numpy&logoColor=blue)
-![langs](https://img.shields.io/badge/pandas-white?style=plastic&logo=pandas&logoColor=black)
-![langs](https://img.shields.io/badge/seaborn-white?style=plastic&log=seaborn&logoColor=white)
-![langs](https://img.shields.io/badge/GAP-98f041?style=plastic&logo=gap&logoColor=orange)
-![langs](https://img.shields.io/badge/streamlit-white?style=plastic&logo=streamlit&logoColor=orange)
-![langs](https://img.shields.io/badge/matplotlib-white?style=plastic&logo=matplotlib&logoColor=orange)
+**Background:** Post-graduate in Mathematics  
+**Current Mission:** Building analytics intelligence systems  
+**Philosophy:** Self-taught, curiosity-driven, forever learning
 
+I specialize in bridging the gap between theoretical mathematics and real-world applications, using computational methods and ML to crack complex problems that exist at the intersection of:
+- 🔢 Pure mathematical challenges
+- 📊 Domain-specific analytical problems
 
-### Frontend Tech I learned
-![langs](https://img.shields.io/badge/HTML-62eeea?style=flat&logo=html&logoColor=green)
-![langs](https://img.shields.io/badge/CSS-blue?style=flat&logo=css&logoColor=green)
-![langs](https://img.shields.io/badge/Javscript-yellow?style=flat&logo=javscript&logoColor=yellow)
+---
 
-Currently I'm trying to understand algorithmic techniques in group theory and some deep neural networks.
+## 🛠️ My Toolkit
 
-Most of the things I have taught myself. If you think I can contribute to a project, contact me I happy to learn and help!
+### Languages
+- **Python** – my goto language
+- **Coq/Rocq** – Learning
+- **Lean4** - Learning
+
+### Libraries in My Arsenal
+- **NumPy** & **Pandas** – Data manipulation wizardry
+- **Scikit-learn** – Classical ML that still works wonders
+- **TensorFlow** & **PyTorch** – Deep learning dual-wielding
+- **Matplotlib** & **Seaborn** – Making data beautiful
+- **PyTorch**
+
+### Frontend Technologies
+- **React** – somewhat
+- **HTML/CSS** – classics
+
+---
+
+## 🔬 Current Research Interests
+
+I'm currently deep in the mathematical trenches exploring:
+
+- **Category Theory and Software foundations**  
+  *Understanding how symbolic AI can be built*
+
+-  **Algorithmic Techniques in Group Theory**  
+  *Uncovering computational patterns in algebraic structures*
+
+- 🧠 **Deep Neural Network Architectures**  
+  *Understanding what makes networks tick (and converge)*
+
+The intersection of these fields fascinates me—there's something beautiful about applying group-theoretic symmetries to neural network design.
+
+---
+
+## 🌱 The Self-Taught Path
+
+Most of what I know came from late-night documentation deep-dives, countless Stack Overflow tabs, and the occasional "aha!" moment at 3 AM. I believe the best way to learn is to build, break, and rebuild.
+
+**My learning philosophy:**
+- 📚 Read the papers
+- 💻 Implement the concepts
+- 🐛 Debug until it works
+- 🔄 Repeat
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always excited to work on interesting problems, especially those involving:
+- Symbolic AI and computation
+- Mathematical modeling and optimization
+- Machine learning applications
+- Computational methods for complex systems
+- Analytics and data intelligence
+
+**Got a challenging project?** I'm happy to learn, contribute, and help bring mathematical elegance to your codebase.
