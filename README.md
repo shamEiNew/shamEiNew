@@ -1,17 +1,15 @@
-# 🎲 Sham | Mathematics/Machine Learning/Symbolic AI
+# 🎲 Sham | Mathematics/Machine Learning
 
-> *"Where pure mathematics meets computational reality"*
 
 ## 👋 Welcome
 
-Hey there! I'm **Sham**, an autodidact with some formal training in mathematics.
+Hey there! I'm **Sham**, an autodidact in programming with some formal training in mathematics.
 ---
 
 ## 🧮 The Mathematical Journey
 
 **Background:** Post-graduate in Mathematics  
-**Current Mission:** Building analytics intelligence systems  
-**Philosophy:** Self-taught, curiosity-driven, forever learning
+**Goal:** Building  intelligent systems  
 
 I specialize in bridging the gap between theoretical mathematics and real-world applications, using computational methods and ML to crack complex problems that exist at the intersection of:
 - 🔢 Pure mathematical challenges
@@ -27,15 +25,11 @@ I specialize in bridging the gap between theoretical mathematics and real-world 
 - **Lean4** - Learning
 
 ### Libraries in My Arsenal
-- **NumPy** & **Pandas** – Data manipulation wizardry
-- **Scikit-learn** – Classical ML that still works wonders
-- **TensorFlow** & **PyTorch** – Deep learning dual-wielding
-- **Matplotlib** & **Seaborn** – Making data beautiful
+- **NumPy** & **Pandas** 
+- **Scikit-learn** 
+- **TensorFlow** & **PyTorch** 
 - **PyTorch**
 
-### Frontend Technologies
-- **React** – somewhat
-- **HTML/CSS** – classics
 
 ---
 
@@ -44,7 +38,7 @@ I specialize in bridging the gap between theoretical mathematics and real-world 
 I'm currently deep in the mathematical trenches exploring:
 
 - **Category Theory and Software foundations**  
-  *Understanding how symbolic AI can be built*
+  *Understanding how super intelligent systems can be built with foundations in Type theory*
 
 -  **Algorithmic Techniques in Group Theory**  
   *Uncovering computational patterns in algebraic structures*
@@ -52,27 +46,22 @@ I'm currently deep in the mathematical trenches exploring:
 - 🧠 **Deep Neural Network Architectures**  
   *Understanding what makes networks tick (and converge)*
 
-The intersection of these fields fascinates me—there's something beautiful about applying group-theoretic symmetries to neural network design.
-
 ---
 
 ## 🌱 The Self-Taught Path
 
-Most of what I know came from late-night documentation deep-dives, countless Stack Overflow tabs, and the occasional "aha!" moment at 3 AM. I believe the best way to learn is to build, break, and rebuild.
+Most of what I know came from late-night documentation deep-dives, countless Stack Overflow tabs.
 
 **My learning philosophy:**
-- 📚 Read the papers
-- 💻 Implement the concepts
-- 🐛 Debug until it works
-- 🔄 Repeat
+- 📚 Read, Do, Read, Do, Fail, Read, Do
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Open to Collaborate!
 
 I'm always excited to work on interesting problems, especially those involving:
-- Symbolic AI and computation
-- Mathematical modeling and optimization
+- Automated Theorem Proving
+- Superintelligent Systems
 - Machine learning applications
 - Computational methods for complex systems
 - Analytics and data intelligence
