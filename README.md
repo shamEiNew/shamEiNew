@@ -7,11 +7,10 @@ Mathematics postgraduate focused on machine learning, automated reasoning, and c
 * Automated Theorem Proving
 * Formal methods (Lean4)
 * Machine Learning and Neural Networks
-* Algorithmic Group Theory
 
 ## Tools
 
-**Languages:** Python, Lean4, Coq/Rocq
+**Languages:** Python, Lean4
 
 **Libraries:** NumPy, Pandas, Scikit-learn, PyTorch
 
