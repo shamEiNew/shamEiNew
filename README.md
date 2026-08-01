@@ -3,12 +3,11 @@
 Mathematics postgraduate focused on machine learning, automated reasoning, and computational mathematics.
 
 ## Interests
-
+* Geometry & Topology
 * Automated Theorem Proving
-* Type Theory and Formal Verification (Lean4)
+* Formal methods (Lean4)
 * Machine Learning and Neural Networks
 * Algorithmic Group Theory
-* Intelligent Systems
 
 ## Tools
 
